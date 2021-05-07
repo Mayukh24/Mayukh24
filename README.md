@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayukh24&label=Profile%20views&color=0e75b6&style=flat" alt="mayukh24" /> </p>
 
-- 🔭 I’m currently working on [MakStar (A movies and series app using JavaScript)](mayukh24.github.io/MakStar/)
+- 🔭 I’m currently working on [MakStar (A movies and series app using JavaScript)](https://mayukh24.github.io/MakStar/)
 
 - 🌱 I’m currently learning **React Js, Node Js, Mongo DB**
 
