@@ -15,6 +15,8 @@
 🌱 I’m currently learning **React Js, Node Js, Mongo DB**
 
 <br>
+<img src="teen-dev.jpg" href="https://mayukh24.github.io/Portfolio/" width ="100%"/>
+<br>
 <h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" height="40"></h2>
 <p align="center">
 <a href="https://dev.to/mayukh24" target="blank"><img align="center" src="https://img.icons8.com/windows/32/ffffff/dev.png" alt="mayukh24" height="40" width="auto" /></a>
