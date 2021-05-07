@@ -15,7 +15,7 @@
 🌱 I’m currently learning **React Js, Node Js, Mongo DB**
 
 <br>
-<h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+<h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" height="40"></h2>
 <p align="center">
 <a href="https://dev.to/mayukh24" target="blank"><img align="center" src="https://img.icons8.com/windows/32/ffffff/dev.png" alt="mayukh24" height="40" width="auto" /></a>
 <a href="https://linkedin.com/in/mayukh-maji-852603197" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="mayukh-maji-852603197" height="40" width="auto" /></a>
