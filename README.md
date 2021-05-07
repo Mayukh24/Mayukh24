@@ -1,11 +1,14 @@
-<h1 align="center">Hi 👋, I'm Mayukh Maji</h1>
-<h3 align="center">Your friendly neighbourhood frontend developer 😁</h3>
-
+<img src="https://github.com/Mayukh24/Mayukh24/blob/main/banner.gif" href="https://mayukh24.github.io/Portfolio/" width ="100%"/>
+ <br>
+ 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=mayukh24&label=Profile%20views&color=0e75b6&style=flat" alt="mayukh24" />  
  <img src="https://badges.pufler.dev/repos/mayukh24" />
  <img src="https://badges.pufler.dev/commits/monthly/mayukh24" />
 </p>
+<h1 align="center">Hi 👋, I'm Mayukh Maji</h1>
+<h3 align="center">Your friendly neighbourhood frontend developer 😁</h3>
+
 
 🔭 I’m currently working on [MakStar (A movies and series app using JavaScript)](https://mayukh24.github.io/MakStar/)
 
