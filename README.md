@@ -8,7 +8,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Mayukh Maji</h1>
 <h3 align="center">Your friendly neighbourhood frontend developer 😁</h3>
-
+<br>
 
 🔭 I’m currently working on [MakStar (A movies and series app using JavaScript)](https://mayukh24.github.io/MakStar/)
 
