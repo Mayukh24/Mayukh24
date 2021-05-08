@@ -10,9 +10,10 @@
 <h3 align="center">Your friendly neighbourhood frontend developer and UI/UX designer 😁</h3>
 <br>
 
-🔭 I’m currently working on [MakStar (A movies and series app using JavaScript)](https://mayukh24.github.io/MakStar/)
-
-🌱 I’m currently learning **React Js, Node Js, Mongo DB**
+**<h3>Wanna know me? Here are somethings about me:</h3>**
+  - 🔭 I’m currently working on [MakStar (A movies and series app using JavaScript)](https://mayukh24.github.io/MakStar/)
+  - 🌱 I’m currently learning **React Js, Node Js, Mongo DB**
+  
 
 <br>
 <img src="teen-dev.jpg" href="https://mayukh24.github.io/Portfolio/" width ="100%"/>
