@@ -1,10 +1,10 @@
 
+<img src="https://github.com/Mayukh24/Mayukh24/blob/main/banner.gif" href="https://mayukh24.github.io/Portfolio/" width ="100%"/>
+ <br>
 <h1 align="center">Hi there <img src = "https://github.com/Mayukh24/Mayukh24/blob/main/Hi.gif" alt = "Hi" width = "35px"/>, I'm Mayukh Maji and welcome to my Github</h1>
 <h3 align="center">Your friendly neighbourhood frontend developer and UI/UX designer 😁</h3>
 <br>
 
-<img src="https://github.com/Mayukh24/Mayukh24/blob/main/banner.gif" href="https://mayukh24.github.io/Portfolio/" width ="100%"/>
- <br>
  
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=mayukh24&label=Profile%20views&color=0e75b6&style=flat" alt="mayukh24" />  
