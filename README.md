@@ -9,7 +9,6 @@
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=mayukh24&label=Profile%20views&color=0e75b6&style=flat" alt="mayukh24" />  
  <img src="https://badges.pufler.dev/repos/mayukh24" />
- <img src="https://badges.pufler.dev/commits/monthly/mayukh24" />
 </p>
 
 **<h3>Wanna know me? Here are somethings about me:</h3>**
