@@ -2,7 +2,7 @@
 <img src="https://github.com/Mayukh24/Mayukh24/blob/main/banner.gif" href="https://mayukh24.github.io/Portfolio/" width ="100%"/>
  <br>
 <h1 align="center">Hi there <img src = "https://github.com/Mayukh24/Mayukh24/blob/main/Hi.gif" alt = "Hi" width = "35px"/>, I'm Mayukh Maji and welcome to my Github</h1>
-<h3 align="center">Your friendly neighbourhood frontend developer and UI/UX designer 😁</h3>
+<h3 align="center"><img src = "https://readme-typing-svg.herokuapp.com?font=Poppins&color=F7F7F7&size=25&center=true&width=650&lines=I+am+a+UI%2FUX+Designer+%F0%9F%8E%A8;I+am+a+Front+End+Web+Developer++%F0%9F%92%BB;I+am+always+enthusiastic+to+learn+new+skills+%F0%9F%98%81"></h3>
 <br>
 
  
