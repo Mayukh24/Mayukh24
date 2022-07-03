@@ -1,7 +1,7 @@
 
 <img src="https://github.com/Mayukh24/Mayukh24/blob/main/banner.gif" href="https://mayukh24.github.io/Portfolio/" width ="100%"/>
  <br>
-<h1 align="center">Hi there <img src = "https://github.com/Mayukh24/Mayukh24/blob/main/Hi.gif" alt = "Hi" width = "35px"/>, I'm Mayukh Maji and welcome to my Github</h1>
+<h1 align="center">Hi there <img src = "https://github.com/Mayukh24/Mayukh24/blob/main/Hi.gif" alt = "Hi" width = "9px"/>, I'm Mayukh Maji and welcome to my Github</h1>
 <h3 align="center"><img src = "typing.svg"></h3>
 <br>
 
